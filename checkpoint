@@ -1,0 +1,6 @@
+model_checkpoint_path: "sub-model-1-110001"
+all_model_checkpoint_paths: "sub-model-1-106001"
+all_model_checkpoint_paths: "sub-model-1-107001"
+all_model_checkpoint_paths: "sub-model-1-108001"
+all_model_checkpoint_paths: "sub-model-1-109001"
+all_model_checkpoint_paths: "sub-model-1-110001"
